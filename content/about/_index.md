@@ -1,8 +1,17 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+description: "フューチャーアーキテクトの有志により創部された競技プログラミング部のサイトです"
 featured_image: ''
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Enjoy Happy Coding!" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+フューチャーアーキテクトの有志により創部された競技プログラミング部のサイトです。
+チーム名はOCV(Osaki Code Village）といいます。
+
+TopCoderやCodinGameといったプログラミングコンテストに社内の有志が一緒に参加し、プログラミングを楽しく、時に為になる情報を交換しながら日々腕を磨いています。
+
+競技プログラミングと言うと敷居が高い印象がありますが、初心者大歓迎です！
+部員の殆どは社会人1～3年目の若手メンバーで、競技プログラミング経験者はほとんどいませんでした。
+
+ITに興味がある学生さんや社員の方、興味がある方はぜひ一緒に競技プログラミングをしませんか？
+連絡お待ちしています。

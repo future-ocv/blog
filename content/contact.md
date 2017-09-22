@@ -7,7 +7,8 @@ menu:
 
 ---
 
+ブログについての更新内容は [Twitter](https://twitter.com/future_ocv) にて発信していますので、よければフォロー下さい！
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+また、直接メッセージを送りたいよという方は、Twitterか下記フォームから連絡をいただければと思います。
 
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="https://formspree.io/facts-coder@future.co.jp"  >}}

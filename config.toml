@@ -1,8 +1,7 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://t0pcoder.github.io/blog"
+title = "Future OCV（フューチャーアーキテクト競技プログラミング部）"
+baseURL = "https://future-ocv.github.io/blog/"
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
-#themesDir = "../.."
+theme = "ananke"
 publishDir = "docs"
 
 MetaDataFormat = "yaml"
@@ -18,9 +17,9 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  description = "The last theme you'll ever need. Maybe."
+  description = ""
   facebook = "https://www.facebook.com/future.saiyo/"
-  twitter = "https://twitter.com/t0pcoder"
+  twitter = "https://twitter.com/future_ocv"
   instagram = ""
   youtube = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
