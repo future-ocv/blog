@@ -1,9 +1,9 @@
 ---
-title: "OCV<br>フューチャーアーキテクト競技プログラミング"
+title: "OCV"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: ""
+description: "Osaki Code Village"
 ---
-フューチャーアーキテクトの競技プログラミング部の紹介サイトへようこそ！
+フューチャーアーキテクトの競技プログラミング部(OCV)のサイトへようこそ！
 
 # 部の概要
 
